@@ -1,2 +1,11 @@
-# flexerx
-Flexer X Official
+# Flexer X
+
+# HOW TO RUN
+
+RUN AS ADMIN
+
+HIT THE SYRINGE TO INJECT
+
+HIT THE </> TO EXECUTE
+
+BAM YOUR DONE
